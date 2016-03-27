@@ -46,7 +46,7 @@ shinyUI(
         helpText("This shiny application allow you to see changes expenditure between two years by  draging the slider to the appropriate years. For example by moving the first slider to 1945 and the second slider to 1955, we can see that there is a slight changes in presonal expenditures related to Private education and personal care and a huge increase in expenditure related to Food and Tobacco "),
         hr(),
         # GitHub repository
-        a("Source code - GitHub repoistory ", href = "http://www.rstudio.com/shiny")
+        a("Source code - GitHub repoistory ", href = "https://github.com/amo2002/USPexpenditure")
        
       )
       
